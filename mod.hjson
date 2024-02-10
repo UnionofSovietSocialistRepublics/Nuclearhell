@@ -20,7 +20,7 @@ version: 1.0
 minGameVersion: 145
 
 #multiplayer compatiple or nah
-hidden: true
+hidden: false
 
 #this is a java mod
 java: true
