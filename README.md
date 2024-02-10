@@ -5,7 +5,7 @@
 - Geothermal_Stronghold by skeledragon
 - Mycelial_Bastion by the same guy above me
 - harsh by saber 89
-- due to lack of hard attack map those are the only one I can take lmao
+due to lack of hard attack map those are the only one I can take lmao
 ### survival:
-- Jutland by stormrider
-- Bombardment zone by the same guy above me
+- Jutland by leaferius
+- Bombardment zone by stormrider
