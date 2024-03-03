@@ -6,13 +6,16 @@ import static mindustry.content.Planets.*;
 
 public class nuclearsector{
     public static SectorPreset
-    map1,map2,map3,map4,map5,map6;
+    map1,map2,map3,map4,map5,map6,map7;
 
 
     public static void load(){
         //region serpulo
         map1 = new SectorPreset("7", serpulo, 7){{
             captureWave = 66;
+            difficulty = 69;
+        }};
+        map7 = new SectorPreset("24", serpulo, 24){{
             difficulty = 69;
         }};
         map2 = new SectorPreset("69", serpulo, 69){{
