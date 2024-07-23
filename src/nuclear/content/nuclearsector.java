@@ -12,7 +12,7 @@ public class nuclearsector{
     public static void load(){
         //region serpulo
         map1 = new SectorPreset("7", serpulo, 7){{
-            captureWave = 66;
+            captureWave = 100;
             difficulty = 69;
         }};
         map7 = new SectorPreset("24", serpulo, 24){{
